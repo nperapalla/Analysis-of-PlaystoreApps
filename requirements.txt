@@ -1,0 +1,9 @@
+pandas
+numpy
+pillow
+seaborn
+matplotlib
+plotly.express
+wordcloud
+sklearn
+xgboost
